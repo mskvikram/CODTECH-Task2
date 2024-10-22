@@ -1,0 +1,1 @@
+Credit card fraud detection involves identifying unauthorized or suspicious transactions made with credit cards. As the volume of online and digital transactions has increased, so too has the occurrence of fraud. This problem has led to the development of sophisticated detection systems using both traditional statistical methods and advanced machine learning techniques.
